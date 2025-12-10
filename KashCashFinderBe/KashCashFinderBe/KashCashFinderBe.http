@@ -1,0 +1,6 @@
+@KashCashFinderBe_HostAddress = http://localhost:5073
+
+GET {{KashCashFinderBe_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
